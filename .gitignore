@@ -1,0 +1,25 @@
+# Airflow
+.env
+airflow_settings.yaml
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+webserver_config.py
+logs/
+__pycache__/
+
+# Virtual Environment
+.venv
+venv/
+
+# Astro
+astro
+
+# IDE and System files
+.DS_Store
+.idea/
+.vscode/
+*.pyc
+
+# Docker
+*.pid
